@@ -1,0 +1,4 @@
+C:\Skola\C-Sharp\Lektion_5\03_TodoList\obj\Debug\net7.0\03_TodoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lektion_5\03_TodoList\obj\Debug\net7.0\03_TodoList.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lektion_5\03_TodoList\obj\Debug\net7.0\03_TodoList.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lektion_5\03_TodoList\obj\Debug\net7.0\03_TodoList.csproj.CoreCompileInputs.cache

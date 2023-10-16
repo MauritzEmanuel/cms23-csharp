@@ -1,0 +1,17 @@
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\bin\Debug\net7.0\Assingment.exe
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\bin\Debug\net7.0\Assingment.deps.json
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\bin\Debug\net7.0\Assingment.runtimeconfig.json
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\bin\Debug\net7.0\Assingment.dll
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\bin\Debug\net7.0\Assingment.pdb
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\Assingment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\Assingment.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\Assingment.AssemblyInfo.cs
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\Assingment.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\Assingment.dll
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\refint\Assingment.dll
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\Assingment.pdb
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\Assingment.genruntimeconfig.cache
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\ref\Assingment.dll
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\Assingment.csproj.AssemblyReference.cache
+C:\Skola\C-Sharp\Inlämningsuppgift-Csharp\Customer\obj\Debug\net7.0\Assingment.csproj.CopyComplete

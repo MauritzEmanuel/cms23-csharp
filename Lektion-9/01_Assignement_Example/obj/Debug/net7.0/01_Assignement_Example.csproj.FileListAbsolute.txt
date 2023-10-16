@@ -1,0 +1,14 @@
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\bin\Debug\net7.0\01_Assignement_Example.exe
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\bin\Debug\net7.0\01_Assignement_Example.deps.json
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\bin\Debug\net7.0\01_Assignement_Example.runtimeconfig.json
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\bin\Debug\net7.0\01_Assignement_Example.dll
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\bin\Debug\net7.0\01_Assignement_Example.pdb
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\obj\Debug\net7.0\01_Assignement_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\obj\Debug\net7.0\01_Assignement_Example.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\obj\Debug\net7.0\01_Assignement_Example.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\obj\Debug\net7.0\01_Assignement_Example.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\obj\Debug\net7.0\01_Assignement_Example.dll
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\obj\Debug\net7.0\refint\01_Assignement_Example.dll
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\obj\Debug\net7.0\01_Assignement_Example.pdb
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\obj\Debug\net7.0\01_Assignement_Example.genruntimeconfig.cache
+C:\Skola\C-Sharp\Lektion-9\01_Assignement_Example\obj\Debug\net7.0\ref\01_Assignement_Example.dll

@@ -1,0 +1,14 @@
+C:\Skola\C-Sharp\Yasin\Yasin\bin\Debug\net7.0\Yasin.exe
+C:\Skola\C-Sharp\Yasin\Yasin\bin\Debug\net7.0\Yasin.deps.json
+C:\Skola\C-Sharp\Yasin\Yasin\bin\Debug\net7.0\Yasin.runtimeconfig.json
+C:\Skola\C-Sharp\Yasin\Yasin\bin\Debug\net7.0\Yasin.dll
+C:\Skola\C-Sharp\Yasin\Yasin\bin\Debug\net7.0\Yasin.pdb
+C:\Skola\C-Sharp\Yasin\Yasin\obj\Debug\net7.0\Yasin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Yasin\Yasin\obj\Debug\net7.0\Yasin.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Yasin\Yasin\obj\Debug\net7.0\Yasin.AssemblyInfo.cs
+C:\Skola\C-Sharp\Yasin\Yasin\obj\Debug\net7.0\Yasin.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Yasin\Yasin\obj\Debug\net7.0\Yasin.dll
+C:\Skola\C-Sharp\Yasin\Yasin\obj\Debug\net7.0\refint\Yasin.dll
+C:\Skola\C-Sharp\Yasin\Yasin\obj\Debug\net7.0\Yasin.pdb
+C:\Skola\C-Sharp\Yasin\Yasin\obj\Debug\net7.0\Yasin.genruntimeconfig.cache
+C:\Skola\C-Sharp\Yasin\Yasin\obj\Debug\net7.0\ref\Yasin.dll

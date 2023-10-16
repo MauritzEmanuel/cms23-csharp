@@ -1,0 +1,16 @@
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.Form1.resources
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Skola\C-Sharp\Lektion-10\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll

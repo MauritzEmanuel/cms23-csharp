@@ -1,0 +1,14 @@
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\bin\Debug\net7.0\01_Exercise.exe
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\bin\Debug\net7.0\01_Exercise.deps.json
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\bin\Debug\net7.0\01_Exercise.runtimeconfig.json
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\bin\Debug\net7.0\01_Exercise.dll
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\bin\Debug\net7.0\01_Exercise.pdb
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\obj\Debug\net7.0\01_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\obj\Debug\net7.0\01_Exercise.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\obj\Debug\net7.0\01_Exercise.AssemblyInfo.cs
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\obj\Debug\net7.0\01_Exercise.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\obj\Debug\net7.0\01_Exercise.dll
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\obj\Debug\net7.0\refint\01_Exercise.dll
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\obj\Debug\net7.0\01_Exercise.pdb
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\obj\Debug\net7.0\01_Exercise.genruntimeconfig.cache
+C:\Skola\C-Sharp\01_Exercise\01_Exercise\obj\Debug\net7.0\ref\01_Exercise.dll

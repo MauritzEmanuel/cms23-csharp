@@ -1,0 +1,14 @@
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\bin\Debug\net6.0\01_Basic_ConsoleApp.exe
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\bin\Debug\net6.0\01_Basic_ConsoleApp.deps.json
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\bin\Debug\net6.0\01_Basic_ConsoleApp.runtimeconfig.json
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\bin\Debug\net6.0\01_Basic_ConsoleApp.dll
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\bin\Debug\net6.0\01_Basic_ConsoleApp.pdb
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\obj\Debug\net6.0\01_Basic_ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\obj\Debug\net6.0\01_Basic_ConsoleApp.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\obj\Debug\net6.0\01_Basic_ConsoleApp.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\obj\Debug\net6.0\01_Basic_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\obj\Debug\net6.0\01_Basic_ConsoleApp.dll
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\obj\Debug\net6.0\refint\01_Basic_ConsoleApp.dll
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\obj\Debug\net6.0\01_Basic_ConsoleApp.pdb
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\obj\Debug\net6.0\01_Basic_ConsoleApp.genruntimeconfig.cache
+C:\Skola\C-Sharp\Lektion-2\01_Basic_ConsoleApp\obj\Debug\net6.0\ref\01_Basic_ConsoleApp.dll

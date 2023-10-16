@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_DataLogging", "01_DataLogging\01_DataLogging.csproj", "{37EA4E27-A6D2-4EAE-87B4-B4710B683DC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_DataLogging.Tests", "01_DataLogging.Tests\01_DataLogging.Tests.csproj", "{D4C45E5F-E00D-4D8F-9A45-08AC296A1CC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37EA4E27-A6D2-4EAE-87B4-B4710B683DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37EA4E27-A6D2-4EAE-87B4-B4710B683DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37EA4E27-A6D2-4EAE-87B4-B4710B683DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37EA4E27-A6D2-4EAE-87B4-B4710B683DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4C45E5F-E00D-4D8F-9A45-08AC296A1CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C45E5F-E00D-4D8F-9A45-08AC296A1CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C45E5F-E00D-4D8F-9A45-08AC296A1CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C45E5F-E00D-4D8F-9A45-08AC296A1CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBCF79A8-4280-4333-B7B5-7173AC9E9C3E}
+	EndGlobalSection
+EndGlobal

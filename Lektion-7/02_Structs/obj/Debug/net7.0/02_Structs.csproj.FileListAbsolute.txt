@@ -1,0 +1,4 @@
+C:\Skola\C-Sharp\Lektion-7\02_Structs\obj\Debug\net7.0\02_Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lektion-7\02_Structs\obj\Debug\net7.0\02_Structs.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lektion-7\02_Structs\obj\Debug\net7.0\02_Structs.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lektion-7\02_Structs\obj\Debug\net7.0\02_Structs.csproj.CoreCompileInputs.cache

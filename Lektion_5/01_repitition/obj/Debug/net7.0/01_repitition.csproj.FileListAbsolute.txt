@@ -1,0 +1,14 @@
+C:\Skola\C-Sharp\Lektion_5\01_repitition\bin\Debug\net7.0\01_repitition.exe
+C:\Skola\C-Sharp\Lektion_5\01_repitition\bin\Debug\net7.0\01_repitition.deps.json
+C:\Skola\C-Sharp\Lektion_5\01_repitition\bin\Debug\net7.0\01_repitition.runtimeconfig.json
+C:\Skola\C-Sharp\Lektion_5\01_repitition\bin\Debug\net7.0\01_repitition.dll
+C:\Skola\C-Sharp\Lektion_5\01_repitition\bin\Debug\net7.0\01_repitition.pdb
+C:\Skola\C-Sharp\Lektion_5\01_repitition\obj\Debug\net7.0\01_repitition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lektion_5\01_repitition\obj\Debug\net7.0\01_repitition.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lektion_5\01_repitition\obj\Debug\net7.0\01_repitition.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lektion_5\01_repitition\obj\Debug\net7.0\01_repitition.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Lektion_5\01_repitition\obj\Debug\net7.0\01_repitition.dll
+C:\Skola\C-Sharp\Lektion_5\01_repitition\obj\Debug\net7.0\refint\01_repitition.dll
+C:\Skola\C-Sharp\Lektion_5\01_repitition\obj\Debug\net7.0\01_repitition.pdb
+C:\Skola\C-Sharp\Lektion_5\01_repitition\obj\Debug\net7.0\01_repitition.genruntimeconfig.cache
+C:\Skola\C-Sharp\Lektion_5\01_repitition\obj\Debug\net7.0\ref\01_repitition.dll

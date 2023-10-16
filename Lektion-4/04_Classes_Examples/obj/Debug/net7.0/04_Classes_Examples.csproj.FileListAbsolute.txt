@@ -1,0 +1,14 @@
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\obj\Debug\net7.0\04_Classes_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\obj\Debug\net7.0\04_Classes_Examples.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\obj\Debug\net7.0\04_Classes_Examples.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\obj\Debug\net7.0\04_Classes_Examples.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\bin\Debug\net7.0\04_Classes_Examples.exe
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\bin\Debug\net7.0\04_Classes_Examples.deps.json
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\bin\Debug\net7.0\04_Classes_Examples.runtimeconfig.json
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\bin\Debug\net7.0\04_Classes_Examples.dll
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\bin\Debug\net7.0\04_Classes_Examples.pdb
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\obj\Debug\net7.0\04_Classes_Examples.dll
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\obj\Debug\net7.0\refint\04_Classes_Examples.dll
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\obj\Debug\net7.0\04_Classes_Examples.pdb
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\obj\Debug\net7.0\04_Classes_Examples.genruntimeconfig.cache
+C:\Skola\C-Sharp\Lektion-4\04_Classes_Examples\obj\Debug\net7.0\ref\04_Classes_Examples.dll

@@ -1,0 +1,17 @@
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\bin\Debug\net7.0\02_SaveAndReadToFromFile.exe
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\bin\Debug\net7.0\02_SaveAndReadToFromFile.deps.json
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\bin\Debug\net7.0\02_SaveAndReadToFromFile.runtimeconfig.json
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\bin\Debug\net7.0\02_SaveAndReadToFromFile.dll
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\bin\Debug\net7.0\02_SaveAndReadToFromFile.pdb
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\02_SaveAndReadToFromFile.csproj.AssemblyReference.cache
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\02_SaveAndReadToFromFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\02_SaveAndReadToFromFile.AssemblyInfoInputs.cache
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\02_SaveAndReadToFromFile.AssemblyInfo.cs
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\02_SaveAndReadToFromFile.csproj.CoreCompileInputs.cache
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\02_SaveAndReadToFromFile.csproj.CopyComplete
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\02_SaveAndReadToFromFile.dll
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\refint\02_SaveAndReadToFromFile.dll
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\02_SaveAndReadToFromFile.pdb
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\02_SaveAndReadToFromFile.genruntimeconfig.cache
+C:\Skola\C-Sharp\Lektion_5\02_SaveAndReadToFromFile\obj\Debug\net7.0\ref\02_SaveAndReadToFromFile.dll
