@@ -1,17 +1,17 @@
 ﻿using Assingment.Models;
 using Newtonsoft.Json;
+using System.Security.Cryptography.X509Certificates;
 
 namespace Assingment.Services;
 
-internal class CustomerService
+public class CustomerService
 {
     private static List<Customer> customerList = new List<Customer>();
 
 
     //metod för att skapa kontakter
-    public static void CreateCustomer()
+    public void CreateCustomer(Customer customer)
     {
-        Customer customer = new Customer();
 
         Console.WriteLine("Ange förnamn: ");
         customer.FirstName = Console.ReadLine() ?? "";
@@ -21,9 +21,8 @@ internal class CustomerService
         customer.Email = Console.ReadLine() ?? "";
         Console.WriteLine("Ange telefonnummer: ");
         customer.PhoneNumber = Console.ReadLine() ?? "";
-        Console.WriteLine("Ange hemadress: ");
 
-            CreateAdress();
+        customer.Address = CreateAdress();
 
 
         customerList.Add(customer);
@@ -34,8 +33,8 @@ internal class CustomerService
     }
 
 
-
-    public static void CreateAdress()
+    //Addresses får en egen metod för att sortera ut koden
+    public static Addresses CreateAdress()
     {
         Addresses address = new Addresses();
 
@@ -48,21 +47,81 @@ internal class CustomerService
         Console.WriteLine("Ange postnummer: ");
         address.PostalCode = Console.ReadLine() ?? "";
 
-        addressList.Add(address);
+        return address;
     }
 
 
     //Metod för att skriva ut Kontaktlistan
-    public static void GetCustomers()
+    public static void ViewAllCustomers()
     {
         foreach (var customer in customerList)
         {
-            Console.WriteLine(customer.FirstName);
-            Console.WriteLine(customer.LastName);
+            Console.WriteLine("Personuppgifter:");
+            Console.WriteLine(customer.FullName);
             Console.WriteLine(customer.Email);
-            Console.WriteLine(customer.PhoneNumber);
-            Console.WriteLine(customer.Address);
-            Console.WriteLine();
         }
+    }
+
+    //GetOneCustomer och GetCustomerList är till för att andra metoder ska få tag på informationen från listorna
+    public Customer GetOneCustomer(string email)
+    {
+        return customerList.FirstOrDefault(x => x.Email == email)!;
+    }
+
+    public List<Customer> GetCustomerList()
+    {
+        return customerList;
+    }
+
+
+    //Metod för att skriva ut detaljerad information om en specifik kund
+    public static void ViewOneCustomer()
+    {
+        CustomerService customerService = new CustomerService();
+
+        Console.WriteLine("Skriv in kundens e-postadress");
+        var email = Console.ReadLine();
+
+        var specifikCustomer = customerService.GetOneCustomer(email);
+
+        if (specifikCustomer != null)
+        {
+            Console.WriteLine();
+            Console.WriteLine("Personuppgifter:");
+            Console.WriteLine(specifikCustomer.FullName);
+            Console.WriteLine(specifikCustomer.Email);
+            Console.WriteLine(specifikCustomer.PhoneNumber);
+            Console.WriteLine();
+            Console.WriteLine("Hemaddress:");
+            Console.WriteLine(specifikCustomer.Address.FullAddress);
+        }
+        else
+            Console.WriteLine("Kunden hittades inte");
+
+    }
+
+    public static void RemoveOneCustomerMenu()
+    {
+        Console.WriteLine("Skriv in kundens e-postadress");
+        var email = Console.ReadLine();
+
+        CustomerService customerService = new CustomerService();
+        customerService.RemoveCustomer(email!);
+
+    }
+
+    private void RemoveCustomer(string email)
+    {
+        var customer = GetOneCustomer(email);
+
+        //Ser till att programmet inte kraschar om din inmatning inte finns med i listan
+        if (customer != null)
+        {
+            customerList.Remove(customer);
+            Console.WriteLine("Kunden är borttagen.");
+        }
+        else
+            Console.WriteLine("Kunden hittades inte");
+
     }
 }
