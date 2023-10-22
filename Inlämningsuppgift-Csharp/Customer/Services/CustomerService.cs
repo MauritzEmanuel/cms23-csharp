@@ -6,7 +6,6 @@ namespace Assingment.Services;
 internal class CustomerService
 {
     private static List<Customer> customerList = new List<Customer>();
-    private static List<Addresses> addressList = new List<Addresses>();
 
 
     //metod för att skapa kontakter
@@ -24,14 +23,6 @@ internal class CustomerService
         customer.PhoneNumber = Console.ReadLine() ?? "";
         Console.WriteLine("Ange hemadress: ");
 
-        var choice = "";
-        Console.WriteLine("Vill du lägga till en Address?");
-        Console.WriteLine("1. Ja");
-        Console.WriteLine("2. Nej");
-
-        choice = Console.ReadLine();
-
-        if (choice == "1")
             CreateAdress();
 
 
